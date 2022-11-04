@@ -80,4 +80,6 @@
     "workbench.settings.useSplitJSON": true,
     "workbench.startupEditor": "newUntitledFile",
     "workbench.panel.defaultLocation": "right",
+    "window.zoomLevel": 2,
+    "security.workspace.trust.untrustedFiles": "open",
 }
